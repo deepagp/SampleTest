@@ -8,8 +8,8 @@ int main() {
   double b = 3;
   cout << "Total of x + y = " << (x + y) << endl;
   cout << "Subtraction of x - y = " << (x - y) << endl;
-  cout << "Multiplication of a * b = " << (a * b) << endl;
-  cout << "Division of a / b = " << (a / b) << endl;
+//   cout << "Multiplication of a * b = " << (a * b) << endl;
+//   cout << "Division of a / b = " << (a / b) << endl;
   
   
 }
